@@ -1,5 +1,4 @@
 # chonla/alpine-php7
------
 
 Docker image create php7 and [some components](#components) on top of alpine linux.
 
