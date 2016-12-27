@@ -8,6 +8,7 @@ Docker image create php7 and [some components](#components) on top of alpine lin
 * curl
 * openssl
 * php7
+* php7-ctype
 * php7-curl
 * php7-iconv
 * php7-json
